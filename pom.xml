@@ -73,10 +73,11 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-                <mainClass>com.keerthi.DMS.DogManagementSystemApplication</mainClass>
-            	</configuration>
+					<mainClass>com.keerthi.DMS.DogManagementSystemApplication</mainClass>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
+
 
 </project>
